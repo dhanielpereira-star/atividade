@@ -19,7 +19,7 @@ def carregar_dados():
 df = carregar_dados()
 
 # Título
-st.tittle("Painel de Atendimento Médico")
+st.title("Painel de Atendimento Médico")
 
 # Cards de métricas
 media_idade = df["Idade"].mean()
