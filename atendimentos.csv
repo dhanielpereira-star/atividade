@@ -1,4 +1,4 @@
-Nome Completo,Idade,Gênero,Medico,Turno,Atestado,SindRespiratoria
+Nome Completo,idade,Gênero,Medico,Turno,Atestado,SindRespiratoria
 Alana Ribeiro,26,F,Dr. Fred,1° turno,0,0
 Alessandro Pires,24,F,Dr. Fred,2° turno,1,1
 Alexandre Moura,22,M,Dr. Fred,1° turno,0,0
